@@ -1,0 +1,9 @@
+1.     PHP must be used for Server Script. Any client script can be used.  - did
+
+2.     Read the attached excel and show it on the web page - did
+
+3.     Freeze Top row - did
+
+4.     Enable to Filter by Dept - did
+
+5.     Calculate and display the sum of the annual salary, and the average of the age in the selected multiple rows

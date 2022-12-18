@@ -1,0 +1,22 @@
+.filterByDep{
+    display: flex;
+    padding: 10px;
+}
+.filterByDep div{
+    padding:5px;
+}
+
+th {
+  background-color: lightgray;
+  position: sticky;
+  top: 0;
+}
+
+
+
+td{
+    border: 1px solid #bbbbbb;
+    padding: 5px;
+    width: 80px;
+}
+
